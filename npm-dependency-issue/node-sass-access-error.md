@@ -12,4 +12,5 @@ gyp ERR! not ok
 ```
 ### Solution
 [How to Prevent Permissions Errors](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
+
 MAC/Linux select option two
