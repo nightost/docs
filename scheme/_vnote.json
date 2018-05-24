@@ -1,0 +1,24 @@
+{
+    "created_time": "2018-05-22T12:04:31Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-05-22T12:04:39Z",
+            "modified_time": "2018-05-22T12:04:39Z",
+            "name": "首屏可见性方案.md"
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-05-22T12:04:39Z",
+            "modified_time": "2018-05-22T12:04:39Z",
+            "name": "骨架屏.md"
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

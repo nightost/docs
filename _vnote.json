@@ -11,6 +11,24 @@
         },
         {
             "name": "react"
+        }, {
+            "name": "browser-bugs"
+        }, {
+            "name": "code-style"
+        }, {
+            "name": "element-ui"
+        }, {
+            "name": "npm-dependency-issue"
+        }, {
+            "name": "questions"
+        }, {
+            "name": "webpack"
+        }, {
+            "name": "小程序"
+        }, {
+            "name": "scheme"
+        }, {
+            "name": "xports"
         }
     ],
     "version": "1"
