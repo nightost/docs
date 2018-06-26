@@ -47,6 +47,12 @@
         },
         {
             "name": "git"
+        },
+        {
+            "name": "snippet"
+        },
+        {
+            "name": "npm私有服务器"
         }
     ],
     "version": "1"

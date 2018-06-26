@@ -1,0 +1,8 @@
+vnote_backup_file_826537664 /Users/nightost/Documents/workspace/nightost/docs/snippet/sql/查询菜单权限.md
+# 查询菜单权限
+```sql
+SELECT * FROM menu t WHERE t.menu_name LIKE '%协议办卡%';
+SELECT * FROM role_menu t WHERE t.menu_id='17';
+SELECT * FROM staff_role t WHERE t.role_id='ROLE_MERCHANT';
+SELECT * FROM staff t WHERE t.staff_id = '162'
+```
